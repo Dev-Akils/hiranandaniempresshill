@@ -24,6 +24,8 @@ import floorunit10 from '../assets/Floors/Wing-B/Units-B/WING-B Unit 10.jpg';
 import floorunit11 from '../assets/Floors/Wing-B/Units-B/WING-B Unit 11.jpg';
 import floorunit12 from '../assets/Floors/Wing-B/Units-B/WING-B Unit 12.jpg';
 
+
+
 import Walkthrough2D from '../assets/walkthroughvedio/4BHK_Walkthrough.mp4';
 import walkthrough2D from '../assets/walkthroughvedio/3BHK_Walkthrough.mp4'
 export const floorData = {
