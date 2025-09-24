@@ -1,6 +1,6 @@
 import { useRef,useState } from "react";
 
-import terrace from "../vedio/Terrace Amenities Walkthrough.mp4";
+import terrace from "../vedio/Terrace Amenities Walkthrough.webm";
 import VideoFooter
     from "../components/VedioFooter";
 

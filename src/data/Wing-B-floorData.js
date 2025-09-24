@@ -9,7 +9,7 @@ import floor22Img from '../assets/Floors/Wing-B/22nd Floor B-wing.jpg';
 import floor23Img from '../assets/Floors/Wing-B/23rd to 26th Floor B-Wing.jpg';
 import floor27Img from '../assets/Floors/Wing-B/27th to 29th Floor B-Wing.jpg';
 
-import ExploreHomes from "../assets/walkthroughvedio/Home Automation_high res.mp4";
+import ExploreHomes from "../assets/walkthroughvedio/Home Automation_high res.webm";
 
 import floorunit1 from '../assets/Floors/Wing-B/Units-B/WING-B Unit 01.jpg'
 import floorunit2 from '../assets/Floors/Wing-B/Units-B/WING-B Unit 02.jpg'
@@ -26,8 +26,8 @@ import floorunit12 from '../assets/Floors/Wing-B/Units-B/WING-B Unit 12.jpg';
 
 
 
-import Walkthrough2D from '../assets/walkthroughvedio/4BHK_Walkthrough.mp4';
-import walkthrough2D from '../assets/walkthroughvedio/3BHK_Walkthrough.mp4'
+import Walkthrough2D from '../assets/walkthroughvedio/4BHK_Walkthrough.webm';
+import walkthrough2D from '../assets/walkthroughvedio/3BHK_Walkthrough.webm'
 export const floorData = {
     1: {
         id: 1,

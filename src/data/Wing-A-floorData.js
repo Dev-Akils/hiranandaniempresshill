@@ -9,9 +9,9 @@ import floor22Img from '../assets/Floors/Wing-A/22nd Floor A-wing.jpg';
 import floor23Img from '../assets/Floors/Wing-A/23rd to 26th Floor A-Wing.jpg';
 import floor27Img from '../assets/Floors/Wing-A/27th to 29th Floor A-Wing.jpg';
 
-import Walkthrough2D from '../assets/walkthroughvedio/4BHK_Walkthrough.mp4';
-import walkthrough2D from '../assets/walkthroughvedio/3BHK_Walkthrough.mp4'
-import ExploreHomes from "../assets/walkthroughvedio/Home Automation_high res.mp4";
+import Walkthrough2D from '../assets/walkthroughvedio/4BHK_Walkthrough.webm';
+import walkthrough2D from '../assets/walkthroughvedio/3BHK_Walkthrough.webm'
+import ExploreHomes from "../assets/walkthroughvedio/Home Automation_high res.webm";
 import floorunit1 from '../assets/Floors/Wing-A/Units-A/WING-A Unit 01.jpg';
 
 import floorunit2 from '../assets/Floors/Wing-A/Units-A/WING-A Unit 02.jpg'

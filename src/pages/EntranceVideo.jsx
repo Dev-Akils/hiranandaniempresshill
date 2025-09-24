@@ -1,6 +1,6 @@
 // src/pages/EntranceVideo.jsx
 import { useRef,useState } from "react";
-import vedio from "../vedio/Entrance Walkthrough.mp4";
+import vedio from "../vedio/Entrance Walkthrough.webm";
 import VideoFooter from "../components/VedioFooter";
 
 export default function EntranceVideo() {

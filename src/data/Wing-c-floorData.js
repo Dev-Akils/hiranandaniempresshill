@@ -8,7 +8,7 @@ import floor18Img from '../assets/Floors/Wing-C/18th to 21st Floor C-Wing.jpg';
 import floor22Img from '../assets/Floors/Wing-C/22nd Refuge floor C-Wing.jpg';
 import floor23Img from '../assets/Floors/Wing-C/23rd to 26th Floor C-Wing.jpg';
 import floor27Img from '../assets/Floors/Wing-C/27th to 29th Floor C-Wing.jpg';
-import ExploreHomes from "../assets/walkthroughvedio/Home Automation_high res.mp4";
+import ExploreHomes from "../assets/walkthroughvedio/Home Automation_high res.webm";
 
 
 export const floorData = {

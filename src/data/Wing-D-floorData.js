@@ -9,7 +9,7 @@ import floor22Img from '../assets/Floors/Wing-D/22nd Floor D-wing.jpg';
 import floor23Img from '../assets/Floors/Wing-D/23rd to 26th Floor D-Wing.jpg';
 import floor27Img from '../assets/Floors/Wing-D/27th to 29th Floor D-Wing.jpg';
 
-import ExploreHomes from "../assets/walkthroughvedio/Home Automation_high res.mp4";
+import ExploreHomes from "../assets/walkthroughvedio/Home Automation_high res.webm";
 
 
 export const floorData = {
