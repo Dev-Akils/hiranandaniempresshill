@@ -1,30 +1,30 @@
-import floor1Img from "../assets/Floors/Wing-B/1st Floor B-Wing.jpg";
-import floor2Img from '../assets/Floors/Wing-B/2nd Floor B-Wing.jpg';
+import floor1Img from "../assets/Floors/Wing-B/1stFloorB-Wing.jpg";
+import floor2Img from '../assets/Floors/Wing-B/2ndFloorB-Wing.jpg';
 
 import floor3Img from '../assets/Floors/Wing-B/3rdto7th,9thto13thFloorB-Wing.jpg';
-import floor8Img from '../assets/Floors/Wing-B/8th Floor B-Wing.jpg';
+import floor8Img from '../assets/Floors/Wing-B/8thFloorB-Wing.jpg';
 
 import floor14Img from '../assets/Floors/Wing-B/14th,16th&17thFloorB-Wing.jpg';
-import floor15Img from '../assets/Floors/Wing-B/15th Floor B-Wing.jpg';
-import floor18Img from '../assets/Floors/Wing-B/18th to 21st Floor B-Wing.jpg';
-import floor22Img from '../assets/Floors/Wing-B/22nd Floor B-wing.jpg';
-import floor23Img from '../assets/Floors/Wing-B/23rd to 26th Floor B-Wing.jpg';
-import floor27Img from '../assets/Floors/Wing-B/27th to 29th Floor B-Wing.jpg';
+import floor15Img from '../assets/Floors/Wing-B/15thFloorB-Wing.jpg';
+import floor18Img from '../assets/Floors/Wing-B/18thto21stFloorB-Wing.jpg';
+import floor22Img from '../assets/Floors/Wing-B/22ndFloorB-wing.jpg';
+// import floor23Img from '../assets/Floors/Wing-B/23rdto26thFloorB-Wing.jpg';
+// import floor27Img from '../assets/Floors/Wing-B/27thto29thFloorB-Wing.jpg';
 
 // import ExploreHomes from "../assets/walkthroughvedio/Home Automation_high res.webm";
 
-import floorunit1 from '../assets/Floors/Wing-B/Units-B/WING-B Unit 01.jpg'
-import floorunit2 from '../assets/Floors/Wing-B/Units-B/WING-B Unit 02.jpg'
-import floorunit3 from '../assets/Floors/Wing-B/Units-B/WING-B Unit 03.jpg';
-import floorunit4 from '../assets/Floors/Wing-B/Units-B/WING-B Unit 04.jpg';
-import floorunit5 from '../assets/Floors/Wing-B/Units-B/WING-B Unit 05.jpg';
-import floorunit6 from '../assets/Floors/Wing-B/Units-B/WING-B Unit 06.jpg';
-import floorunit7 from '../assets/Floors/Wing-B/Units-B/WING-B Unit 07.jpg';
-import floorunit8 from '../assets/Floors/Wing-B/Units-B/WING-B Unit 08.jpg';
-import floorunit9 from '../assets/Floors/Wing-B/Units-B/WING-B Unit 09.jpg';
-import floorunit10 from '../assets/Floors/Wing-B/Units-B/WING-B Unit 10.jpg';
-import floorunit11 from '../assets/Floors/Wing-B/Units-B/WING-B Unit 11.jpg';
-import floorunit12 from '../assets/Floors/Wing-B/Units-B/WING-B Unit 12.jpg';
+import floorunit1 from '../assets/Floors/Wing-B/Units-B/WING-BUnit01.jpg'
+import floorunit2 from '../assets/Floors/Wing-B/Units-B/WING-BUnit02.jpg'
+import floorunit3 from '../assets/Floors/Wing-B/Units-B/WING-BUnit03.jpg';
+import floorunit4 from '../assets/Floors/Wing-B/Units-B/WING-BUnit04.jpg';
+import floorunit5 from '../assets/Floors/Wing-B/Units-B/WING-BUnit05.jpg';
+import floorunit6 from '../assets/Floors/Wing-B/Units-B/WING-BUnit06.jpg';
+import floorunit7 from '../assets/Floors/Wing-B/Units-B/WING-BUnit07.jpg';
+import floorunit8 from '../assets/Floors/Wing-B/Units-B/WING-BUnit08.jpg';
+import floorunit9 from '../assets/Floors/Wing-B/Units-B/WING-BUnit09.jpg';
+import floorunit10 from '../assets/Floors/Wing-B/Units-B/WING-BUnit10.jpg';
+import floorunit11 from '../assets/Floors/Wing-B/Units-B/WING-BUnit11.jpg';
+import floorunit12 from '../assets/Floors/Wing-B/Units-B/WING-BUnit12.jpg';
 
 
 

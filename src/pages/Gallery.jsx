@@ -1,17 +1,17 @@
 import { useMemo, useState } from 'react';
-import image1 from '../assets/GalleryImagesInterior/3 BHK_Bedroom_01.jpg';
-import image2 from '../assets/GalleryImagesInterior/3 BHK_Master Bedroom.jpg';
-import image3 from '../assets/GalleryImagesInterior/3BHK_Guest Bedroom.jpg';
+import image1 from '../assets/GalleryImagesInterior/3BHK_Bedroom_01.jpg';
+import image2 from '../assets/GalleryImagesInterior/3BHK_MasterBedroom.jpg';
+import image3 from '../assets/GalleryImagesInterior/3BHK_GuestBedroom.jpg';
 import image4 from '../assets/GalleryImagesInterior/3BHK_Living_Dining.jpg';
-import image5 from '../assets/GalleryImagesInterior/4 BHK_Kitchen.jpg';
-import image6 from '../assets/GalleryImagesInterior/4bhk Master Toilet.jpg';
+import image5 from '../assets/GalleryImagesInterior/4BHK_Kitchen.jpg';
+import image6 from '../assets/GalleryImagesInterior/4bhkMasterToilet.jpg';
 import image7 from '../assets/GalleryImagesInterior/4BHK_Bedroom_03.jpg';
-import image8 from '../assets/GalleryImagesInterior/4BHK_Deck Area.jpg';
-import image9 from '../assets/GalleryImagesInterior/4BHK_Entertainment Room.jpg';
-import image10 from '../assets/GalleryImagesInterior/4BHK_Living Dining_Cam_01.jpg';
-import image11 from '../assets/GalleryImagesInterior/4BHK_Master Bedroom_01.jpg';
+import image8 from '../assets/GalleryImagesInterior/4BHK_DeckArea.jpg';
+import image9 from '../assets/GalleryImagesInterior/4BHK_EntertainmentRoom.jpg';
+import image10 from '../assets/GalleryImagesInterior/4BHK_LivingDining_Cam_01.jpg';
+import image11 from '../assets/GalleryImagesInterior/4BHK_MasterBedroom_01.jpg';
 import image12 from '../assets/GalleryImagesInterior/Gym.jpg';
-import image13 from '../assets/GalleryImagesInterior/Reception Area_01.jpg';
+import image13 from '../assets/GalleryImagesInterior/ReceptionArea_01.jpg';
 
 import images1 from '../assets/GalleryImagesExterior/L_09.jpg';
 import images2 from '../assets/GalleryImagesExterior/L-11.jpg';

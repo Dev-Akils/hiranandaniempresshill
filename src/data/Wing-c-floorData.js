@@ -1,15 +1,15 @@
-import floor1Img from "../assets/Floors/Wing-C/1st Floor C-Wing.jpg";
-import floor2Img from '../assets/Floors/Wing-C/2nd Floor C-Wing.jpg';
+import floor1Img from "../assets/Floors/Wing-C/1stFloorC-Wing.jpg";
+import floor2Img from '../assets/Floors/Wing-C/2ndFloorC-Wing.jpg';
 
 import floor3Img from '../assets/Floors/Wing-C/3rdto7th,9thto13thfloorC-Wing.jpg';
-import floor8Img from '../assets/Floors/Wing-C/8th Refuge floor C-Wing.jpg';
+import floor8Img from '../assets/Floors/Wing-C/8thRefugefloorC-Wing.jpg';
 
 import floor14Img from '../assets/Floors/Wing-C/14th,16th&17thfloorC-Wing.jpg';
-import floor15Img from '../assets/Floors/Wing-C/15th Refuge floor C-Wing.jpg';
-import floor18Img from '../assets/Floors/Wing-C/18th to 21st Floor C-Wing.jpg';
-import floor22Img from '../assets/Floors/Wing-C/22nd Refuge floor C-Wing.jpg';
-import floor23Img from '../assets/Floors/Wing-C/23rd to 26th Floor C-Wing.jpg';
-import floor27Img from '../assets/Floors/Wing-C/27th to 29th Floor C-Wing.jpg';
+import floor15Img from '../assets/Floors/Wing-C/15thRefugefloorC-Wing.jpg';
+import floor18Img from '../assets/Floors/Wing-C/18thto21stFloorC-Wing.jpg';
+import floor22Img from '../assets/Floors/Wing-C/22ndRefugefloorC-Wing.jpg';
+// import floor23Img from '../assets/Floors/Wing-C/23rdto26thFloorC-Wing.jpg';
+// import floor27Img from '../assets/Floors/Wing-C/27thto29thFloorC-Wing.jpg';
 // import ExploreHomes from "../assets/walkthroughvedio/Home Automation_high res.webm";
 
 

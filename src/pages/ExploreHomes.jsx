@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import bgImage from '../assets/GalleryImagesInterior/Reception Area_01.jpg'
+import bgImage from '../assets/GalleryImagesInterior/ReceptionArea_01.jpg'
 import Footer from '../components/Footer';
 import { useNavigate } from 'react-router-dom';
 export default function ExploreHomes() {

@@ -1,26 +1,26 @@
-import floor1Img from "../assets/Floors/Wing-A/1st Floor A-Wing.jpg";
-import floor2Img from '../assets/Floors/Wing-A/2nd Floor A-Wing.jpg';
+import floor1Img from "../assets/Floors/Wing-A/1stFloorA-Wing.jpg";
+import floor2Img from '../assets/Floors/Wing-A/2ndFloorA-Wing.jpg';
 
 import floor3Img from '../assets/Floors/Wing-A/3rdto7th,9thto13thFloorA-Wing.jpg';
-import floor8Img from '../assets/Floors/Wing-A/8th Floor A-Wing.jpg';
+import floor8Img from '../assets/Floors/Wing-A/8thFloorA-Wing.jpg';
 
 import floor14Img from '../assets/Floors/Wing-A/14th,16th&17thFloorA-Wing.jpg';
-import floor15Img from '../assets/Floors/Wing-A/15th Floor A-Wing.jpg';
-import floor18Img from '../assets/Floors/Wing-A/18th to 21st Floor A-Wing.jpg';
-import floor22Img from '../assets/Floors/Wing-A/22nd Floor A-wing.jpg';
-import floor23Img from '../assets/Floors/Wing-A/23rd to 26th Floor A-Wing.jpg';
-import floor27Img from '../assets/Floors/Wing-A/27th to 29th Floor A-Wing.jpg';
+import floor15Img from '../assets/Floors/Wing-A/15thFloorA-Wing.jpg';
+import floor18Img from '../assets/Floors/Wing-A/18thto21stFloorA-Wing.jpg';
+import floor22Img from '../assets/Floors/Wing-A/22ndFloorA-wing.jpg';
+// import floor23Img from '../assets/Floors/Wing-A/23rdto26thFloorA-Wing.jpg';
+// import floor27Img from '../assets/Floors/Wing-A/27thto29thFloorA-Wing.jpg';
 
 // import Walkthrough2D from '../assets/walkthroughvedio/4BHK_Walkthrough.webm';
 // import walkthrough2D from '../assets/walkthroughvedio/3BHK_Walkthrough.webm';
 // import ExploreHomes from "../assets/walkthroughvedio/Home Automation_high res.webm";
-import floorunit1 from '../assets/Floors/Wing-A/Units-A/WING-A Unit 01.jpg';
+import floorunit1 from '../assets/Floors/Wing-A/Units-A/WING-AUnit01.jpg';
 
-import floorunit2 from '../assets/Floors/Wing-A/Units-A/WING-A Unit 02.jpg'
-import floorunit3 from '../assets/Floors/Wing-A/Units-A/WING-A Unit 03.jpg'
-import floorunit4 from '../assets/Floors/Wing-A/Units-A/WING-A Unit 04.jpg'
-import floorunit5 from '../assets/Floors/Wing-A/Units-A/WING-A Unit 05.jpg';
-import floorunit6 from '../assets/Floors/Wing-A/Units-A/WING-A Unit 06.jpg'
+import floorunit2 from '../assets/Floors/Wing-A/Units-A/WING-AUnit02.jpg'
+import floorunit3 from '../assets/Floors/Wing-A/Units-A/WING-AUnit03.jpg'
+import floorunit4 from '../assets/Floors/Wing-A/Units-A/WING-AUnit04.jpg'
+import floorunit5 from '../assets/Floors/Wing-A/Units-A/WING-AUnit05.jpg';
+import floorunit6 from '../assets/Floors/Wing-A/Units-A/WING-AUnit06.jpg'
 
 export const floorData = {
     1: {

@@ -1,16 +1,16 @@
-import floor1Img from "../assets/Floors/Wing-D/1st Floor D-Wing.jpg";
-import floor2Img from '../assets/Floors/Wing-D/2nd Floor D-Wing.jpg';
+import floor1Img from "../assets/Floors/Wing-D/1stFloorD-Wing.jpg";
+import floor2Img from '../assets/Floors/Wing-D/2ndFloorD-Wing.jpg';
 import floor3Img from '../assets/Floors/Wing-D/3rdto7th,9thto13thFloorD-Wing.jpg';
 
-import floor8Img from '../assets/Floors/Wing-D/8th Floor D-Wing.jpg';
+import floor8Img from '../assets/Floors/Wing-D/8thFloorD-Wing.jpg';
 
 import floor14Img from '../assets/Floors/Wing-D/14th,16th&17thFloorD-Wing.jpg';
-import floor15Img from '../assets/Floors/Wing-D/15th Floor D-Wing.jpg';
+import floor15Img from '../assets/Floors/Wing-D/15thFloorD-Wing.jpg';
 
 import floor18Img from '../assets/Floors/Wing-D/18thto21stFloorD-Wing.jpg';
-import floor22Img from '../assets/Floors/Wing-D/22nd Floor D-wing.jpg';
-import floor23Img from '../assets/Floors/Wing-D/23rd to 26th Floor D-Wing.jpg';
-import floor27Img from '../assets/Floors/Wing-D/27th to 29th Floor D-Wing.jpg';
+import floor22Img from '../assets/Floors/Wing-D/22ndFloorD-wing.jpg';
+// import floor23Img from '../assets/Floors/Wing-D/23rd to 26th Floor D-Wing.jpg';
+// import floor27Img from '../assets/Floors/Wing-D/27th to 29th Floor D-Wing.jpg';
 
 // import ExploreHomes from "../assets/walkthroughvedio/Home Automation_high res.webm";
 
