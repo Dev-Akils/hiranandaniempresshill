@@ -27,7 +27,7 @@ export default function ExploreWalkThrough() {
                     xl:max-w-[1920px] 
                     2xl:max-w-[2000px] mx-auto"> */}
             {/* Background Video */}
-            <video
+            {/* <video
                 ref={videoRef}
                 src={terrace}
                 autoPlay
@@ -35,7 +35,15 @@ export default function ExploreWalkThrough() {
 
                 playsInline
                 className="absolute top-0 left-0 w-full h-screen object-contain lg:object-cover xl:object-cover"
-            />
+            /> */}
+            <div style={{ width: "100%", height: "100%" }}>
+                <wistia-player
+                    media-id="9xafr8q82s"
+                    wistia-popover="true"
+                    aspect="1.7777777777777777"
+                    style={{ width: "100%", height: "100%" }}
+                ></wistia-player>
+            </div>
             {/* </div> */}
             {/* Content above video */}
             <div className="absolute bottom-0 w-full bg-black/70 flex flex-col md:flex-row md:items-center">

@@ -1,4 +1,4 @@
-import { useRef,useState } from "react";
+import { useRef, useState } from "react";
 
 import terrace from "../vedio/Terrace Amenities Walkthrough.webm";
 import VideoFooter
@@ -28,7 +28,7 @@ export default function TerraceAminities() {
                 xl:max-w-[1920px] 
                 2xl:max-w-[2000px] mx-auto"> */}
             {/* Background Video */}
-            <video
+            {/* <video
                 ref={videoRef}
                 src={terrace}
                 autoPlay
@@ -36,7 +36,16 @@ export default function TerraceAminities() {
 
                 playsInline
                 className="absolute top-0 left-0 w-full h-screen object-contain lg:object-cover xl:object-cover"
-            />
+            /> */}
+
+            <div style={{ width: "100%", height: "100%" }}>
+                <wistia-player
+                    media-id="jdpspm1uqo"
+                    wistia-popover="true"
+                    aspect="1.7777777777777777"
+                    style={{ width: "100%", height: "100%" }}
+                ></wistia-player>
+            </div>
             {/* </div> */}
             {/* Content above video */}
             <div className="absolute bottom-0 w-full bg-black/70 flex flex-col md:flex-row md:items-center">
