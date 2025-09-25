@@ -6,7 +6,7 @@ import floor8Img from '../assets/Floors/Wing-C/8thRefugefloorC-Wing.jpg';
 
 import floor14Img from '../assets/Floors/Wing-C/14th,16th&17thfloorC-Wing.jpg';
 import floor15Img from '../assets/Floors/Wing-C/15thRefugefloorC-Wing.jpg';
-import floor18Img from '../assets/Floors/Wing-C/18thto21stFloorC-Wing.jpg';
+import floor18Img from '../assets/Floors/Wing-C/18thto21stfloorC-Wing.jpg';
 import floor22Img from '../assets/Floors/Wing-C/22ndRefugefloorC-Wing.jpg';
 // import floor23Img from '../assets/Floors/Wing-C/23rdto26thFloorC-Wing.jpg';
 // import floor27Img from '../assets/Floors/Wing-C/27thto29thFloorC-Wing.jpg';
