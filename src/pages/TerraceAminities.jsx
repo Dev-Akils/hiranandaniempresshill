@@ -1,6 +1,6 @@
 import { useRef, useState } from "react";
 
-import terrace from "../vedio/Terrace Amenities Walkthrough.webm";
+// import terrace from "../vedio/Terrace Amenities Walkthrough.webm";
 import VideoFooter
     from "../components/VedioFooter";
 
