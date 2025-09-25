@@ -1,6 +1,6 @@
 import { useRef, useState } from "react";
 
-// import terrace from "../vedio/Landscape Walkthrough.webm";
+
 import VideoFooter from "../components/VedioFooter";
 export default function ExploreWalkThrough() {
     const [isMuted, setIsMuted] = useState(false);
