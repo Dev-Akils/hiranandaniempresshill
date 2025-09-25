@@ -5,7 +5,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import ExploreHomes from './pages/ExploreHomes';
 import EntranceVideo from './pages/EntranceVideo.jsx';
 import ExploreRockRidge from './pages/ExploreRockRidge';
-import ExploreWalkThrough from './pages/ExploreWalkthrough';
+import ExploreWalkThrough1 from './pages/ExploreWalkThrough1.jsx';
 import EntrancePage from './pages/EntrancePage';
 import TerraceAminities from './pages/TerraceAminities'
 import Gallery from './pages/Gallery';
@@ -40,7 +40,7 @@ function App() {
           <Route path="/explore_homes" element={<ExploreHomes />} />
           <Route path="/gallery" element={<Gallery />} />
 
-          <Route path="/explorewalkthrough" element={<ExploreWalkThrough />} />
+          <Route path="/explorewalkthrough" element={<ExploreWalkThrough1 />} />
 
           <Route path="/floora/:id" element={<FloorA />} />
           <Route path="/floorb/:id" element={<FloorB />} />

@@ -2,7 +2,7 @@ import { useRef, useState } from "react";
 
 
 import VideoFooter from "../components/VedioFooter";
-export default function ExploreWalkThrough() {
+export default function ExploreWalkThrough1() {
     const [isMuted, setIsMuted] = useState(false);
 
     const videoRef = useRef(null);
