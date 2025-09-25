@@ -9,9 +9,9 @@ import floor22Img from '../assets/Floors/Wing-A/22nd Floor A-wing.jpg';
 import floor23Img from '../assets/Floors/Wing-A/23rd to 26th Floor A-Wing.jpg';
 import floor27Img from '../assets/Floors/Wing-A/27th to 29th Floor A-Wing.jpg';
 
-import Walkthrough2D from '../assets/walkthroughvedio/4BHK_Walkthrough.webm';
-import walkthrough2D from '../assets/walkthroughvedio/3BHK_Walkthrough.webm'
-import ExploreHomes from "../assets/walkthroughvedio/Home Automation_high res.webm";
+// import Walkthrough2D from '../assets/walkthroughvedio/4BHK_Walkthrough.webm';
+// import walkthrough2D from '../assets/walkthroughvedio/3BHK_Walkthrough.webm';
+// import ExploreHomes from "../assets/walkthroughvedio/Home Automation_high res.webm";
 import floorunit1 from '../assets/Floors/Wing-A/Units-A/WING-A Unit 01.jpg';
 
 import floorunit2 from '../assets/Floors/Wing-A/Units-A/WING-A Unit 02.jpg'
@@ -24,7 +24,7 @@ export const floorData = {
     1: {
         id: 1,
         image: floor1Img,
-        ExploreHomes: ExploreHomes,
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -52,7 +52,7 @@ export const floorData = {
 
                 image2D2: floorunit1,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 2,
@@ -65,7 +65,7 @@ export const floorData = {
 
                 image2D2: floorunit3,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 3,
@@ -78,7 +78,7 @@ export const floorData = {
 
                 image2D2: floorunit4,
 
-                exploreVedio2D: walkthrough2D,
+                exploreVedio2D: "vq9ug37hac",
 
             },
 
@@ -96,7 +96,7 @@ export const floorData = {
     2: {
         id: 2,
         image: floor2Img,
-        ExploreHomes: ExploreHomes,
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -123,7 +123,7 @@ export const floorData = {
 
                 image2D2: floorunit1,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 2,
@@ -135,7 +135,7 @@ export const floorData = {
 
                 image2D2: floorunit2,
 
-                exploreVedio2D: walkthrough2D,
+                exploreVedio2D: "vq9ug37hac",
             },
             {
                 id: 3,
@@ -148,7 +148,7 @@ export const floorData = {
 
                 image2D2: floorunit3,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 4,
@@ -161,7 +161,7 @@ export const floorData = {
 
                 image2D2: floorunit4,
 
-                exploreVedio2D: walkthrough2D,
+                exploreVedio2D: "vq9ug37hac",
 
             },
 
@@ -180,8 +180,8 @@ export const floorData = {
     3: {
         id: 3,
         image: floor3Img,
-        ExploreHomes: ExploreHomes,
-        exploreVedio2D: Walkthrough2D,
+        ExploreHomes: "i74rwiwnyd",
+        exploreVedio2D: "juu4gok7cg",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -207,7 +207,7 @@ export const floorData = {
                 polygonPoints: "397,2671,757,2131,1038,2141,1149,1982,863,1998,1011,1765,1154,1558,1186,1521,1043,1521,1139,1384,1202,1389,1292,1394,1313,1347,2139,1347,2092,1447,1864,1452,1785,1633,2245,1649,2198,1787,2579,1797,2489,2438,2012,2428,1975,2539,1864,2544,1811,2751,1393,2751,1477,2539,1387,2534,1324,2698,1207,2687,1096,2931,715,2931,847,2693",
                 image2D2: floorunit1,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 2,
@@ -219,7 +219,7 @@ export const floorData = {
 
                 image2D2: floorunit2,
 
-                exploreVedio2D: walkthrough2D,
+                exploreVedio2D: "vq9ug37hac",
             },
             {
                 id: 3,
@@ -231,7 +231,7 @@ export const floorData = {
                 ,
                 image2D2: floorunit4,
 
-                exploreVedio2D: walkthrough2D,
+                exploreVedio2D: "vq9ug37hac",
             },
             {
                 id: 4,
@@ -242,7 +242,7 @@ export const floorData = {
                 polygonPoints: "3771,1002,3951,1002,3977,1066,4062,1061,4099,1151,4311,1151,4263,1040,4099,1050,4041,918,3956,918,3924,849,4644,849,4671,896,4766,875,4835,971,4681,976,4697,1002,4734,1071,4803,1055,4946,1257,5121,1257,5359,1553,5169,1559,5206,1617,5132,1617,5312,1871,4930,1871,4925,1946,4740,1940,4745,1871,4655,1871,4533,1617,4279,1617,4194,1410,4025,1416,3998,1331,4168,1326,4141,1262,3977,1262,3855,1267",
                 image2D2: floorunit3,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             }
         ],
         features: [
@@ -259,7 +259,7 @@ export const floorData = {
     4: {
         id: 4,
         image: floor3Img,
-        ExploreHomes: ExploreHomes,
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -285,7 +285,7 @@ export const floorData = {
                 polygonPoints: "397,2671,757,2131,1038,2141,1149,1982,863,1998,1011,1765,1154,1558,1186,1521,1043,1521,1139,1384,1202,1389,1292,1394,1313,1347,2139,1347,2092,1447,1864,1452,1785,1633,2245,1649,2198,1787,2579,1797,2489,2438,2012,2428,1975,2539,1864,2544,1811,2751,1393,2751,1477,2539,1387,2534,1324,2698,1207,2687,1096,2931,715,2931,847,2693",
                 image2D2: floorunit1,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 2,
@@ -297,7 +297,7 @@ export const floorData = {
 
                 image2D2: floorunit2,
 
-                exploreVedio2D: walkthrough2D,
+                exploreVedio2D: "vq9ug37hac",
             },
             {
                 id: 3,
@@ -309,7 +309,7 @@ export const floorData = {
                 ,
                 image2D2: floorunit4,
 
-                exploreVedio2D: walkthrough2D,
+                exploreVedio2D: "vq9ug37hac",
             },
             {
                 id: 4,
@@ -320,7 +320,7 @@ export const floorData = {
                 polygonPoints: "3771,1002,3951,1002,3977,1066,4062,1061,4099,1151,4311,1151,4263,1040,4099,1050,4041,918,3956,918,3924,849,4644,849,4671,896,4766,875,4835,971,4681,976,4697,1002,4734,1071,4803,1055,4946,1257,5121,1257,5359,1553,5169,1559,5206,1617,5132,1617,5312,1871,4930,1871,4925,1946,4740,1940,4745,1871,4655,1871,4533,1617,4279,1617,4194,1410,4025,1416,3998,1331,4168,1326,4141,1262,3977,1262,3855,1267",
                 image2D2: floorunit3,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             }
         ],
         features: [
@@ -335,7 +335,7 @@ export const floorData = {
     5: {
         id: 5,
         image: floor3Img,
-        ExploreHomes: ExploreHomes,
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -361,7 +361,7 @@ export const floorData = {
                 polygonPoints: "397,2671,757,2131,1038,2141,1149,1982,863,1998,1011,1765,1154,1558,1186,1521,1043,1521,1139,1384,1202,1389,1292,1394,1313,1347,2139,1347,2092,1447,1864,1452,1785,1633,2245,1649,2198,1787,2579,1797,2489,2438,2012,2428,1975,2539,1864,2544,1811,2751,1393,2751,1477,2539,1387,2534,1324,2698,1207,2687,1096,2931,715,2931,847,2693",
                 image2D2: floorunit1,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 2,
@@ -373,7 +373,7 @@ export const floorData = {
 
                 image2D2: floorunit2,
 
-                exploreVedio2D: walkthrough2D,
+                exploreVedio2D: "vq9ug37hac",
             },
             {
                 id: 3,
@@ -385,7 +385,7 @@ export const floorData = {
                 ,
                 image2D2: floorunit4,
 
-                exploreVedio2D: walkthrough2D,
+                exploreVedio2D: "vq9ug37hac",
             },
             {
                 id: 4,
@@ -396,7 +396,7 @@ export const floorData = {
                 polygonPoints: "3771,1002,3951,1002,3977,1066,4062,1061,4099,1151,4311,1151,4263,1040,4099,1050,4041,918,3956,918,3924,849,4644,849,4671,896,4766,875,4835,971,4681,976,4697,1002,4734,1071,4803,1055,4946,1257,5121,1257,5359,1553,5169,1559,5206,1617,5132,1617,5312,1871,4930,1871,4925,1946,4740,1940,4745,1871,4655,1871,4533,1617,4279,1617,4194,1410,4025,1416,3998,1331,4168,1326,4141,1262,3977,1262,3855,1267",
                 image2D2: floorunit3,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             }
         ],
         features: [
@@ -411,7 +411,7 @@ export const floorData = {
     6: {
         id: 6,
         image: floor3Img,
-        ExploreHomes: ExploreHomes,
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -437,7 +437,7 @@ export const floorData = {
                 polygonPoints: "397,2671,757,2131,1038,2141,1149,1982,863,1998,1011,1765,1154,1558,1186,1521,1043,1521,1139,1384,1202,1389,1292,1394,1313,1347,2139,1347,2092,1447,1864,1452,1785,1633,2245,1649,2198,1787,2579,1797,2489,2438,2012,2428,1975,2539,1864,2544,1811,2751,1393,2751,1477,2539,1387,2534,1324,2698,1207,2687,1096,2931,715,2931,847,2693",
                 image2D2: floorunit1,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 2,
@@ -449,7 +449,7 @@ export const floorData = {
 
                 image2D2: floorunit2,
 
-                exploreVedio2D: walkthrough2D,
+                exploreVedio2D: "vq9ug37hac",
             },
             {
                 id: 3,
@@ -461,7 +461,7 @@ export const floorData = {
                 ,
                 image2D2: floorunit4,
 
-                exploreVedio2D: walkthrough2D,
+                exploreVedio2D: "vq9ug37hac",
             },
             {
                 id: 4,
@@ -472,7 +472,7 @@ export const floorData = {
                 polygonPoints: "3771,1002,3951,1002,3977,1066,4062,1061,4099,1151,4311,1151,4263,1040,4099,1050,4041,918,3956,918,3924,849,4644,849,4671,896,4766,875,4835,971,4681,976,4697,1002,4734,1071,4803,1055,4946,1257,5121,1257,5359,1553,5169,1559,5206,1617,5132,1617,5312,1871,4930,1871,4925,1946,4740,1940,4745,1871,4655,1871,4533,1617,4279,1617,4194,1410,4025,1416,3998,1331,4168,1326,4141,1262,3977,1262,3855,1267",
                 image2D2: floorunit3,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             }
         ],
         features: [
@@ -488,7 +488,7 @@ export const floorData = {
     7: {
         id: 7,
         image: floor3Img,
-        ExploreHomes: ExploreHomes,
+        ExploreHomes: "i74rwiwnyd",
 
         imageSettings: {
             svgSize: "0 0 6000 4000",
@@ -515,7 +515,7 @@ export const floorData = {
                 polygonPoints: "397,2671,757,2131,1038,2141,1149,1982,863,1998,1011,1765,1154,1558,1186,1521,1043,1521,1139,1384,1202,1389,1292,1394,1313,1347,2139,1347,2092,1447,1864,1452,1785,1633,2245,1649,2198,1787,2579,1797,2489,2438,2012,2428,1975,2539,1864,2544,1811,2751,1393,2751,1477,2539,1387,2534,1324,2698,1207,2687,1096,2931,715,2931,847,2693",
                 image2D2: floorunit1,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 2,
@@ -527,7 +527,7 @@ export const floorData = {
 
                 image2D2: floorunit2,
 
-                exploreVedio2D: walkthrough2D,
+                exploreVedio2D: "vq9ug37hac",
             },
             {
                 id: 3,
@@ -539,7 +539,7 @@ export const floorData = {
                 ,
                 image2D2: floorunit4,
 
-                exploreVedio2D: walkthrough2D,
+                exploreVedio2D: "vq9ug37hac",
             },
             {
                 id: 4,
@@ -550,7 +550,7 @@ export const floorData = {
                 polygonPoints: "3771,1002,3951,1002,3977,1066,4062,1061,4099,1151,4311,1151,4263,1040,4099,1050,4041,918,3956,918,3924,849,4644,849,4671,896,4766,875,4835,971,4681,976,4697,1002,4734,1071,4803,1055,4946,1257,5121,1257,5359,1553,5169,1559,5206,1617,5132,1617,5312,1871,4930,1871,4925,1946,4740,1940,4745,1871,4655,1871,4533,1617,4279,1617,4194,1410,4025,1416,3998,1331,4168,1326,4141,1262,3977,1262,3855,1267",
                 image2D2: floorunit3,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             }
         ],
         features: [
@@ -567,7 +567,7 @@ export const floorData = {
     8: {
         id: 8,
         image: floor8Img,
-        ExploreHomes: ExploreHomes,
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -596,7 +596,7 @@ export const floorData = {
 
                 image2D2: floorunit1,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
 
             },
             {
@@ -611,7 +611,7 @@ export const floorData = {
                 ,
                 image2D2: floorunit4,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 3,
@@ -624,7 +624,7 @@ export const floorData = {
 
                 image2D2: floorunit3,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             }
         ],
         features: [
@@ -639,7 +639,7 @@ export const floorData = {
     9: {
         id: 9,
         image: floor3Img,
-        ExploreHomes: ExploreHomes,
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -665,7 +665,7 @@ export const floorData = {
                 polygonPoints: "397,2671,757,2131,1038,2141,1149,1982,863,1998,1011,1765,1154,1558,1186,1521,1043,1521,1139,1384,1202,1389,1292,1394,1313,1347,2139,1347,2092,1447,1864,1452,1785,1633,2245,1649,2198,1787,2579,1797,2489,2438,2012,2428,1975,2539,1864,2544,1811,2751,1393,2751,1477,2539,1387,2534,1324,2698,1207,2687,1096,2931,715,2931,847,2693",
                 image2D2: floorunit1,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 2,
@@ -677,7 +677,7 @@ export const floorData = {
 
                 image2D2: floorunit2,
 
-                exploreVedio2D: walkthrough2D,
+                exploreVedio2D: "vq9ug37hac",
             },
             {
                 id: 3,
@@ -689,7 +689,7 @@ export const floorData = {
                 ,
                 image2D2: floorunit4,
 
-                exploreVedio2D: walkthrough2D,
+                exploreVedio2D: "vq9ug37hac",
             },
             {
                 id: 4,
@@ -700,7 +700,7 @@ export const floorData = {
                 polygonPoints: "3771,1002,3951,1002,3977,1066,4062,1061,4099,1151,4311,1151,4263,1040,4099,1050,4041,918,3956,918,3924,849,4644,849,4671,896,4766,875,4835,971,4681,976,4697,1002,4734,1071,4803,1055,4946,1257,5121,1257,5359,1553,5169,1559,5206,1617,5132,1617,5312,1871,4930,1871,4925,1946,4740,1940,4745,1871,4655,1871,4533,1617,4279,1617,4194,1410,4025,1416,3998,1331,4168,1326,4141,1262,3977,1262,3855,1267",
                 image2D2: floorunit3,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             }
         ],
         features: [
@@ -716,7 +716,7 @@ export const floorData = {
     10: {
         id: 10,
         image: floor3Img,
-        ExploreHomes: ExploreHomes,
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -742,7 +742,7 @@ export const floorData = {
                 polygonPoints: "397,2671,757,2131,1038,2141,1149,1982,863,1998,1011,1765,1154,1558,1186,1521,1043,1521,1139,1384,1202,1389,1292,1394,1313,1347,2139,1347,2092,1447,1864,1452,1785,1633,2245,1649,2198,1787,2579,1797,2489,2438,2012,2428,1975,2539,1864,2544,1811,2751,1393,2751,1477,2539,1387,2534,1324,2698,1207,2687,1096,2931,715,2931,847,2693",
                 image2D2: floorunit1,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 2,
@@ -754,7 +754,7 @@ export const floorData = {
 
                 image2D2: floorunit2,
 
-                exploreVedio2D: walkthrough2D,
+                exploreVedio2D: "vq9ug37hac",
             },
             {
                 id: 3,
@@ -766,7 +766,7 @@ export const floorData = {
                 ,
                 image2D2: floorunit4,
 
-                exploreVedio2D: walkthrough2D,
+                exploreVedio2D: "vq9ug37hac",
             },
             {
                 id: 4,
@@ -777,7 +777,7 @@ export const floorData = {
                 polygonPoints: "3771,1002,3951,1002,3977,1066,4062,1061,4099,1151,4311,1151,4263,1040,4099,1050,4041,918,3956,918,3924,849,4644,849,4671,896,4766,875,4835,971,4681,976,4697,1002,4734,1071,4803,1055,4946,1257,5121,1257,5359,1553,5169,1559,5206,1617,5132,1617,5312,1871,4930,1871,4925,1946,4740,1940,4745,1871,4655,1871,4533,1617,4279,1617,4194,1410,4025,1416,3998,1331,4168,1326,4141,1262,3977,1262,3855,1267",
                 image2D2: floorunit3,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             }
         ],
         features: [
@@ -793,7 +793,7 @@ export const floorData = {
     11: {
         id: 11,
         image: floor3Img,
-        ExploreHomes: ExploreHomes,
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -819,7 +819,7 @@ export const floorData = {
                 polygonPoints: "397,2671,757,2131,1038,2141,1149,1982,863,1998,1011,1765,1154,1558,1186,1521,1043,1521,1139,1384,1202,1389,1292,1394,1313,1347,2139,1347,2092,1447,1864,1452,1785,1633,2245,1649,2198,1787,2579,1797,2489,2438,2012,2428,1975,2539,1864,2544,1811,2751,1393,2751,1477,2539,1387,2534,1324,2698,1207,2687,1096,2931,715,2931,847,2693",
                 image2D2: floorunit1,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 2,
@@ -831,7 +831,7 @@ export const floorData = {
 
                 image2D2: floorunit2,
 
-                exploreVedio2D: walkthrough2D,
+                exploreVedio2D: "vq9ug37hac",
             },
             {
                 id: 3,
@@ -843,7 +843,7 @@ export const floorData = {
                 ,
                 image2D2: floorunit4,
 
-                exploreVedio2D: walkthrough2D,
+                exploreVedio2D: "vq9ug37hac",
             },
             {
                 id: 4,
@@ -854,7 +854,7 @@ export const floorData = {
                 polygonPoints: "3771,1002,3951,1002,3977,1066,4062,1061,4099,1151,4311,1151,4263,1040,4099,1050,4041,918,3956,918,3924,849,4644,849,4671,896,4766,875,4835,971,4681,976,4697,1002,4734,1071,4803,1055,4946,1257,5121,1257,5359,1553,5169,1559,5206,1617,5132,1617,5312,1871,4930,1871,4925,1946,4740,1940,4745,1871,4655,1871,4533,1617,4279,1617,4194,1410,4025,1416,3998,1331,4168,1326,4141,1262,3977,1262,3855,1267",
                 image2D2: floorunit3,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             }
         ],
         features: [
@@ -870,7 +870,7 @@ export const floorData = {
     12: {
         id: 12,
         image: floor3Img,
-        ExploreHomes: ExploreHomes,
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -896,7 +896,7 @@ export const floorData = {
                 polygonPoints: "397,2671,757,2131,1038,2141,1149,1982,863,1998,1011,1765,1154,1558,1186,1521,1043,1521,1139,1384,1202,1389,1292,1394,1313,1347,2139,1347,2092,1447,1864,1452,1785,1633,2245,1649,2198,1787,2579,1797,2489,2438,2012,2428,1975,2539,1864,2544,1811,2751,1393,2751,1477,2539,1387,2534,1324,2698,1207,2687,1096,2931,715,2931,847,2693",
                 image2D2: floorunit1,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 2,
@@ -908,7 +908,7 @@ export const floorData = {
 
                 image2D2: floorunit2,
 
-                exploreVedio2D: walkthrough2D,
+                exploreVedio2D: "vq9ug37hac",
             },
             {
                 id: 3,
@@ -920,7 +920,7 @@ export const floorData = {
                 ,
                 image2D2: floorunit4,
 
-                exploreVedio2D: walkthrough2D,
+                exploreVedio2D: "vq9ug37hac",
             },
             {
                 id: 4,
@@ -931,7 +931,7 @@ export const floorData = {
                 polygonPoints: "3771,1002,3951,1002,3977,1066,4062,1061,4099,1151,4311,1151,4263,1040,4099,1050,4041,918,3956,918,3924,849,4644,849,4671,896,4766,875,4835,971,4681,976,4697,1002,4734,1071,4803,1055,4946,1257,5121,1257,5359,1553,5169,1559,5206,1617,5132,1617,5312,1871,4930,1871,4925,1946,4740,1940,4745,1871,4655,1871,4533,1617,4279,1617,4194,1410,4025,1416,3998,1331,4168,1326,4141,1262,3977,1262,3855,1267",
                 image2D2: floorunit3,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             }
         ],
         features: [
@@ -947,7 +947,7 @@ export const floorData = {
     13: {
         id: 13,
         image: floor3Img,
-        ExploreHomes: ExploreHomes,
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -973,7 +973,7 @@ export const floorData = {
                 polygonPoints: "397,2671,757,2131,1038,2141,1149,1982,863,1998,1011,1765,1154,1558,1186,1521,1043,1521,1139,1384,1202,1389,1292,1394,1313,1347,2139,1347,2092,1447,1864,1452,1785,1633,2245,1649,2198,1787,2579,1797,2489,2438,2012,2428,1975,2539,1864,2544,1811,2751,1393,2751,1477,2539,1387,2534,1324,2698,1207,2687,1096,2931,715,2931,847,2693",
                 image2D2: floorunit1,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 2,
@@ -985,7 +985,7 @@ export const floorData = {
 
                 image2D2: floorunit2,
 
-                exploreVedio2D: walkthrough2D,
+                exploreVedio2D: "vq9ug37hac",
             },
             {
                 id: 3,
@@ -997,7 +997,7 @@ export const floorData = {
                 ,
                 image2D2: floorunit4,
 
-                exploreVedio2D: walkthrough2D,
+                exploreVedio2D: "vq9ug37hac",
             },
             {
                 id: 4,
@@ -1008,7 +1008,7 @@ export const floorData = {
                 polygonPoints: "3771,1002,3951,1002,3977,1066,4062,1061,4099,1151,4311,1151,4263,1040,4099,1050,4041,918,3956,918,3924,849,4644,849,4671,896,4766,875,4835,971,4681,976,4697,1002,4734,1071,4803,1055,4946,1257,5121,1257,5359,1553,5169,1559,5206,1617,5132,1617,5312,1871,4930,1871,4925,1946,4740,1940,4745,1871,4655,1871,4533,1617,4279,1617,4194,1410,4025,1416,3998,1331,4168,1326,4141,1262,3977,1262,3855,1267",
                 image2D2: floorunit3,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             }
         ],
         features: [
@@ -1025,7 +1025,7 @@ export const floorData = {
     14: {
         id: 14,
         image: floor14Img,
-        ExploreHomes: ExploreHomes,
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -1052,7 +1052,7 @@ export const floorData = {
 
                 image2D2: floorunit1,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 2,
@@ -1066,7 +1066,7 @@ export const floorData = {
                 ,
                 image2D2: floorunit5,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 3,
@@ -1079,7 +1079,7 @@ export const floorData = {
                 ,
                 image2D2: floorunit4,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 4,
@@ -1091,7 +1091,7 @@ export const floorData = {
 
                 image2D2: floorunit3,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
 
         ],
@@ -1108,7 +1108,7 @@ export const floorData = {
     15: {
         id: 15,
         image: floor15Img,
-        ExploreHomes: ExploreHomes,
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -1135,7 +1135,7 @@ export const floorData = {
 
                 image2D2: floorunit1,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 2,
@@ -1149,7 +1149,7 @@ export const floorData = {
                 ,
                 image2D2: floorunit4,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 3,
@@ -1162,7 +1162,7 @@ export const floorData = {
 
                 image2D2: floorunit3,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             }
         ],
         features: [
@@ -1178,7 +1178,7 @@ export const floorData = {
     16: {
         id: 16,
         image: floor14Img,
-        ExploreHomes: ExploreHomes,
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -1205,7 +1205,7 @@ export const floorData = {
 
                 image2D2: floorunit1,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 2,
@@ -1219,7 +1219,7 @@ export const floorData = {
                 ,
                 image2D2: floorunit5,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 3,
@@ -1232,7 +1232,7 @@ export const floorData = {
                 ,
                 image2D2: floorunit4,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 4,
@@ -1244,7 +1244,7 @@ export const floorData = {
 
                 image2D2: floorunit3,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
 
         ],
@@ -1260,7 +1260,7 @@ export const floorData = {
     17: {
         id: 17,
         image: floor14Img,
-        ExploreHomes: ExploreHomes,
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -1287,7 +1287,7 @@ export const floorData = {
 
                 image2D2: floorunit1,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 2,
@@ -1301,7 +1301,7 @@ export const floorData = {
                 ,
                 image2D2: floorunit5,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 3,
@@ -1314,7 +1314,7 @@ export const floorData = {
                 ,
                 image2D2: floorunit4,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 4,
@@ -1326,7 +1326,7 @@ export const floorData = {
 
                 image2D2: floorunit3,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
 
         ],
@@ -1343,7 +1343,7 @@ export const floorData = {
     18: {
         id: 18,
         image: floor18Img,
-        ExploreHomes: ExploreHomes,
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -1370,7 +1370,7 @@ export const floorData = {
 
                 image2D2: floorunit1,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
 
             {
@@ -1385,7 +1385,7 @@ export const floorData = {
                 ,
                 image2D2: floorunit6,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 3,
@@ -1397,7 +1397,7 @@ export const floorData = {
 
                 image2D2: floorunit3,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 4,
@@ -1411,7 +1411,7 @@ export const floorData = {
                 ,
                 image2D2: floorunit4,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
 
         ],
@@ -1428,7 +1428,7 @@ export const floorData = {
     19: {
         id: 19,
         image: floor18Img,
-        ExploreHomes: ExploreHomes,
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -1455,7 +1455,7 @@ export const floorData = {
 
                 image2D2: floorunit1,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
 
             {
@@ -1470,7 +1470,7 @@ export const floorData = {
                 ,
                 image2D2: floorunit6,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 3,
@@ -1482,7 +1482,7 @@ export const floorData = {
 
                 image2D2: floorunit3,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 4,
@@ -1496,7 +1496,7 @@ export const floorData = {
                 ,
                 image2D2: floorunit4,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
 
         ],
@@ -1513,7 +1513,7 @@ export const floorData = {
     20: {
         id: 20,
         image: floor18Img,
-        ExploreHomes: ExploreHomes,
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -1540,7 +1540,7 @@ export const floorData = {
 
                 image2D2: floorunit1,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
 
             {
@@ -1555,7 +1555,7 @@ export const floorData = {
                 ,
                 image2D2: floorunit6,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 3,
@@ -1567,7 +1567,7 @@ export const floorData = {
 
                 image2D2: floorunit3,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 4,
@@ -1581,7 +1581,7 @@ export const floorData = {
                 ,
                 image2D2: floorunit4,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
 
         ],
@@ -1597,7 +1597,7 @@ export const floorData = {
     21: {
         id: 21,
         image: floor18Img,
-        ExploreHomes: ExploreHomes,
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -1624,7 +1624,7 @@ export const floorData = {
 
                 image2D2: floorunit1,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
 
             {
@@ -1639,7 +1639,7 @@ export const floorData = {
                 ,
                 image2D2: floorunit6,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 3,
@@ -1651,7 +1651,7 @@ export const floorData = {
 
                 image2D2: floorunit3,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 4,
@@ -1665,7 +1665,7 @@ export const floorData = {
                 ,
                 image2D2: floorunit4,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
 
         ],
@@ -1680,7 +1680,7 @@ export const floorData = {
     22: {
         id: 22,
         image: floor22Img,
-        ExploreHomes: ExploreHomes,
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -1707,7 +1707,7 @@ export const floorData = {
 
                 image2D2: floorunit1,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 2,
@@ -1721,7 +1721,7 @@ export const floorData = {
                 ,
                 image2D2: floorunit4,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             },
             {
                 id: 3,
@@ -1733,7 +1733,7 @@ export const floorData = {
 
                 image2D2: floorunit3,
 
-                exploreVedio2D: Walkthrough2D,
+                exploreVedio2D: "juu4gok7cg",
             }
         ],
         features: [
@@ -1747,7 +1747,7 @@ export const floorData = {
     // 23: {
     //     id: 23,
     //     image: floor23Img,
-    //     ExploreHomes: ExploreHomes,
+    //     ExploreHomes: "i74rwiwnyd",
     //     imageSettings: {
     //         svgSize: "0 0 6000 4000",
     //         imageWidth: "6000",
@@ -1774,7 +1774,7 @@ export const floorData = {
 
     //             image2D2: floorunit2,
 
-    //             exploreVedio2D: Walkthrough2D,
+    //             exploreVedio2D: "juu4gok7cg",
     //         },
     //         {
     //             id: 2,
@@ -1787,7 +1787,7 @@ export const floorData = {
     //             ,
     //             image2D2: floorunit2,
 
-    //             exploreVedio2D: Walkthrough2D,
+    //             exploreVedio2D: "juu4gok7cg",
     //         },
     //         {
     //             id: 3,
@@ -1800,7 +1800,7 @@ export const floorData = {
     //             ,
     //             image2D2: floorunit2,
 
-    //             exploreVedio2D: Walkthrough2D,
+    //             exploreVedio2D: "juu4gok7cg",
     //         },
     //         {
     //             id: 4,
@@ -1812,7 +1812,7 @@ export const floorData = {
 
     //             image2D2: floorunit2,
 
-    //             exploreVedio2D: Walkthrough2D,
+    //             exploreVedio2D: "juu4gok7cg",
     //         },
 
     //     ],
@@ -1827,7 +1827,7 @@ export const floorData = {
     // 24: {
     //     id: 24,
     //     image: floor23Img,
-    //     ExploreHomes: ExploreHomes,
+    //     ExploreHomes: "i74rwiwnyd",
     //     imageSettings: {
     //         svgSize: "0 0 6000 4000",
     //         imageWidth: "6000",
@@ -1854,7 +1854,7 @@ export const floorData = {
 
     //             image2D2: floorunit2,
 
-    //             exploreVedio2D: Walkthrough2D,
+    //             exploreVedio2D: "juu4gok7cg",
     //         },
     //         {
     //             id: 2,
@@ -1868,7 +1868,7 @@ export const floorData = {
     //             ,
     //             image2D2: floorunit2,
 
-    //             exploreVedio2D: Walkthrough2D,
+    //             exploreVedio2D: "juu4gok7cg",
     //         },
     //         {
     //             id: 3,
@@ -1881,7 +1881,7 @@ export const floorData = {
     //             ,
     //             image2D2: floorunit2,
 
-    //             exploreVedio2D: Walkthrough2D,
+    //             exploreVedio2D: "juu4gok7cg",
     //         },
     //         {
     //             id: 4,
@@ -1893,7 +1893,7 @@ export const floorData = {
 
     //             image2D2: floorunit2,
 
-    //             exploreVedio2D: Walkthrough2D,
+    //             exploreVedio2D: "juu4gok7cg",
     //         },
 
     //     ],
@@ -1908,7 +1908,7 @@ export const floorData = {
     // 25: {
     //     id: 25,
     //     image: floor23Img,
-    //     ExploreHomes: ExploreHomes,
+    //     ExploreHomes: "i74rwiwnyd",
     //     imageSettings: {
     //         svgSize: "0 0 6000 4000",
     //         imageWidth: "6000",
@@ -1935,7 +1935,7 @@ export const floorData = {
 
     //             image2D2: floorunit2,
 
-    //             exploreVedio2D: Walkthrough2D,
+    //             exploreVedio2D: "juu4gok7cg",
     //         },
     //         {
     //             id: 2,
@@ -1949,7 +1949,7 @@ export const floorData = {
     //             ,
     //             image2D2: floorunit2,
 
-    //             exploreVedio2D: Walkthrough2D,
+    //             exploreVedio2D: "juu4gok7cg",
     //         },
     //         {
     //             id: 3,
@@ -1962,7 +1962,7 @@ export const floorData = {
     //             ,
     //             image2D2: floorunit2,
 
-    //             exploreVedio2D: Walkthrough2D,
+    //             exploreVedio2D: "juu4gok7cg",
     //         },
     //         {
     //             id: 4,
@@ -1974,7 +1974,7 @@ export const floorData = {
 
     //             image2D2: floorunit2,
 
-    //             exploreVedio2D: Walkthrough2D,
+    //             exploreVedio2D: "juu4gok7cg",
     //         },
 
     //     ],
@@ -1990,7 +1990,7 @@ export const floorData = {
     // 26: {
     //     id: 26,
     //     image: floor23Img,
-    //     ExploreHomes: ExploreHomes,
+    //     ExploreHomes: "i74rwiwnyd",
     //     imageSettings: {
     //         svgSize: "0 0 6000 4000",
     //         imageWidth: "6000",
@@ -2029,7 +2029,7 @@ export const floorData = {
     //             ,
     //             image2D2: floorunit2,
 
-    //             exploreVedio2D: Walkthrough2D,
+    //             exploreVedio2D: "juu4gok7cg",
     //         },
     //         {
     //             id: 3,
@@ -2043,7 +2043,7 @@ export const floorData = {
     //             ,
     //             image2D2: floorunit2,
 
-    //             exploreVedio2D: Walkthrough2D,
+    //             exploreVedio2D: "juu4gok7cg",
     //         },
     //         {
     //             id: 4,
@@ -2055,7 +2055,7 @@ export const floorData = {
 
     //             image2D2: floorunit2,
 
-    //             exploreVedio2D: Walkthrough2D,
+    //             exploreVedio2D: "juu4gok7cg",
     //         },
 
     //     ],
@@ -2071,7 +2071,7 @@ export const floorData = {
     // 27: {
     //     id: 27,
     //     image: floor27Img,
-    //     ExploreHomes: ExploreHomes,
+    //     ExploreHomes: "i74rwiwnyd",
     //     imageSettings: {
     //         svgSize: "0 0 6000 4000",
     //         imageWidth: "6000",
@@ -2098,7 +2098,7 @@ export const floorData = {
 
     //             image2D2: floorunit2,
 
-    //             exploreVedio2D: Walkthrough2D,
+    //             exploreVedio2D: "juu4gok7cg",
     //         },
     //         {
     //             id: 2,
@@ -2111,7 +2111,7 @@ export const floorData = {
     //             ,
     //             image2D2: floorunit2,
 
-    //             exploreVedio2D: Walkthrough2D,
+    //             exploreVedio2D: "juu4gok7cg",
     //         },
     //         {
     //             id: 3,
@@ -2125,7 +2125,7 @@ export const floorData = {
     //             ,
     //             image2D2: floorunit2,
 
-    //             exploreVedio2D: Walkthrough2D,
+    //             exploreVedio2D: "juu4gok7cg",
     //         },
     //         {
     //             id: 4,
@@ -2137,7 +2137,7 @@ export const floorData = {
 
     //             image2D2: floorunit2,
 
-    //             exploreVedio2D: Walkthrough2D,
+    //             exploreVedio2D: "juu4gok7cg",
     //         },
 
     //     ],
@@ -2152,7 +2152,7 @@ export const floorData = {
     // 28: {
     //     id: 28,
     //     image: floor27Img,
-    //     ExploreHomes: ExploreHomes,
+    //     ExploreHomes: "i74rwiwnyd",
     //     imageSettings: {
     //         svgSize: "0 0 6000 4000",
     //         imageWidth: "6000",
@@ -2179,7 +2179,7 @@ export const floorData = {
 
     //             image2D2: floorunit2,
 
-    //             exploreVedio2D: Walkthrough2D,
+    //             exploreVedio2D: "juu4gok7cg",
     //         },
     //         {
     //             id: 2,
@@ -2192,7 +2192,7 @@ export const floorData = {
     //             ,
     //             image2D2: floorunit2,
 
-    //             exploreVedio2D: Walkthrough2D,
+    //             exploreVedio2D: "juu4gok7cg",
     //         },
     //         {
     //             id: 3,
@@ -2205,7 +2205,7 @@ export const floorData = {
     //             ,
     //             image2D2: floorunit2,
 
-    //             exploreVedio2D: Walkthrough2D,
+    //             exploreVedio2D: "juu4gok7cg",
     //         },
     //         {
     //             id: 4,
@@ -2217,7 +2217,7 @@ export const floorData = {
 
     //             image2D2: floorunit2,
 
-    //             exploreVedio2D: Walkthrough2D,
+    //             exploreVedio2D: "juu4gok7cg",
     //         },
 
     //     ],
@@ -2232,7 +2232,7 @@ export const floorData = {
     // 29: {
     //     id: 29,
     //     image: floor27Img,
-    //     ExploreHomes: ExploreHomes,
+    //     ExploreHomes: "i74rwiwnyd",
     //     imageSettings: {
     //         svgSize: "0 0 6000 4000",
     //         imageWidth: "6000",
@@ -2259,7 +2259,7 @@ export const floorData = {
 
     //             image2D2: floorunit2,
 
-    //             exploreVedio2D: Walkthrough2D,
+    //             exploreVedio2D: "juu4gok7cg",
     //         },
     //         {
     //             id: 2,
@@ -2272,7 +2272,7 @@ export const floorData = {
     //             ,
     //             image2D2: floorunit2,
 
-    //             exploreVedio2D: Walkthrough2D,
+    //             exploreVedio2D: "juu4gok7cg",
     //         },
     //         {
     //             id: 3,
@@ -2285,7 +2285,7 @@ export const floorData = {
     //             ,
     //             image2D2: floorunit2,
 
-    //             exploreVedio2D: Walkthrough2D,
+    //             exploreVedio2D: "juu4gok7cg",
     //         },
     //         {
     //             id: 4,
@@ -2297,7 +2297,7 @@ export const floorData = {
 
     //             image2D2: floorunit2,
 
-    //             exploreVedio2D: Walkthrough2D,
+    //             exploreVedio2D: "juu4gok7cg",
     //         },
 
     //     ],

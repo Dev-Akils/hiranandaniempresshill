@@ -8,14 +8,14 @@ import floor18Img from '../assets/Floors/Wing-C/18th to 21st Floor C-Wing.jpg';
 import floor22Img from '../assets/Floors/Wing-C/22nd Refuge floor C-Wing.jpg';
 import floor23Img from '../assets/Floors/Wing-C/23rd to 26th Floor C-Wing.jpg';
 import floor27Img from '../assets/Floors/Wing-C/27th to 29th Floor C-Wing.jpg';
-import ExploreHomes from "../assets/walkthroughvedio/Home Automation_high res.webm";
+// import ExploreHomes from "../assets/walkthroughvedio/Home Automation_high res.webm";
 
 
 export const floorData = {
     1: {
         id:1,
         image: floor1Img,
-         ExploreHomes: ExploreHomes,
+         ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -84,7 +84,7 @@ export const floorData = {
     2: {
         id:2,
         image: floor2Img,
-         ExploreHomes: ExploreHomes,
+         ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -148,7 +148,7 @@ export const floorData = {
     3: {
         id:3,
         image: floor3Img,
-         ExploreHomes: ExploreHomes,
+         ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -213,7 +213,7 @@ export const floorData = {
     4: {
         id:4,
         image: floor3Img,
-         ExploreHomes: ExploreHomes,
+         ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -276,7 +276,7 @@ export const floorData = {
     5: {
         id:5,
         image: floor3Img,
-         ExploreHomes: ExploreHomes,
+         ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -339,7 +339,7 @@ export const floorData = {
     6: {
         id:6,
         image: floor3Img,
-         ExploreHomes: ExploreHomes,
+         ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -403,7 +403,7 @@ export const floorData = {
     7: {
         id:7,
         image: floor3Img,
-         ExploreHomes: ExploreHomes,
+         ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -468,7 +468,7 @@ export const floorData = {
     8: {
         id:8,
         image: floor8Img,
-         ExploreHomes: ExploreHomes,
+         ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -531,7 +531,7 @@ export const floorData = {
     9: {
         id:9,
         image: floor3Img,
-         ExploreHomes: ExploreHomes,
+         ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -595,7 +595,7 @@ export const floorData = {
     10: {
         id:10,
         image: floor3Img,
-         ExploreHomes: ExploreHomes,
+         ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -659,7 +659,7 @@ export const floorData = {
     11: {
         id:11,
         image: floor3Img,
-         ExploreHomes: ExploreHomes,
+         ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -723,7 +723,7 @@ export const floorData = {
     12: {
         id:12,
         image: floor3Img,
-         ExploreHomes: ExploreHomes,
+         ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -787,7 +787,7 @@ export const floorData = {
     13: {
         id:13,
         image: floor3Img,
-         ExploreHomes: ExploreHomes,
+         ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -853,7 +853,7 @@ export const floorData = {
     14: {
         id:14,
         image: floor14Img,
-         ExploreHomes: ExploreHomes,
+         ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -917,7 +917,7 @@ export const floorData = {
     15: {
         id:15,
         image: floor15Img,
-         ExploreHomes: ExploreHomes,
+         ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -980,7 +980,7 @@ export const floorData = {
     16: {
         id:16,
         image: floor14Img,
-         ExploreHomes: ExploreHomes,
+         ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -1042,7 +1042,7 @@ export const floorData = {
     17: {
         id:17,
         image: floor14Img,
-         ExploreHomes: ExploreHomes,
+         ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -1106,7 +1106,7 @@ export const floorData = {
     18: {
         id:18,
         image: floor18Img,
-         ExploreHomes: ExploreHomes,
+         ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -1173,7 +1173,7 @@ export const floorData = {
     19: {
         id:19,
         image: floor18Img,
-         ExploreHomes: ExploreHomes,
+         ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -1240,7 +1240,7 @@ export const floorData = {
     20: {
         id:20,
         image: floor18Img,
-         ExploreHomes: ExploreHomes,
+         ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -1306,7 +1306,7 @@ export const floorData = {
     21: {
         id:21,
         image: floor18Img,
-         ExploreHomes: ExploreHomes,
+         ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -1372,7 +1372,7 @@ export const floorData = {
     22: {
         id:22,
         image: floor22Img,
-         ExploreHomes: ExploreHomes,
+         ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",

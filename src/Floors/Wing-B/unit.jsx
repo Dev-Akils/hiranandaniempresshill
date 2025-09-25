@@ -122,11 +122,19 @@ export default function Unit() {
                     >
                         <CloseIcon />
                     </IconButton>
-                    <video
+                    {/* <video
                         src={foundUnit.exploreVedio2D}
                         controls
                         autoPlay
-                        className="max-h-[85vh] max-w-[85vw] rounded-lg shadow-lg" />
+                        className="max-h-[85vh] max-w-[85vw] rounded-lg shadow-lg" /> */}
+                    <div style={{ width: "950px", height: "484px" }}>
+                        <wistia-player
+                            media-id={foundUnit.exploreVedio2D}
+                            wistia-popover="true"
+                            aspect="1.7777777777777777"
+                            style={{ width: "100%", height: "100%" }}
+                        ></wistia-player>
+                    </div>
                 </Box>
             </Modal>
 
@@ -147,11 +155,19 @@ export default function Unit() {
                     >
                         <CloseIcon />
                     </IconButton>
-                    <video
+                    {/* <video
                         src={floor.ExploreHomes}
                         controls
                         autoPlay
-                        className="max-h-[85vh] max-w-[85vw] rounded-lg shadow-lg" />
+                        className="max-h-[85vh] max-w-[85vw] rounded-lg shadow-lg" /> */}
+                    <div style={{ width: "950px", height: "484px" }}>
+                        <wistia-player
+                            media-id={floor.ExploreHomes}
+                            wistia-popover="true"
+                            aspect="1.7777777777777777"
+                            style={{ width: "100%", height: "100%" }}
+                        ></wistia-player>
+                    </div>
                 </Box>
             </Modal>
         </>
