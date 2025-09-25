@@ -1,8 +1,10 @@
 import floor1Img from "../assets/Floors/Wing-B/1st Floor B-Wing.jpg";
 import floor2Img from '../assets/Floors/Wing-B/2nd Floor B-Wing.jpg';
-import floor3Img from '../assets/Floors/Wing-B/3rd to 7th, 9th to 13th Floor B-Wing.jpg';
+
+import floor3Img from '../assets/Floors/Wing-B/3rdto7th,9thto13thFloorB-Wing.jpg';
 import floor8Img from '../assets/Floors/Wing-B/8th Floor B-Wing.jpg';
-import floor14Img from '../assets/Floors/Wing-B/14th, 16th & 17th Floor B-Wing.jpg';
+
+import floor14Img from '../assets/Floors/Wing-B/14th,16th&17thFloorB-Wing.jpg';
 import floor15Img from '../assets/Floors/Wing-B/15th Floor B-Wing.jpg';
 import floor18Img from '../assets/Floors/Wing-B/18th to 21st Floor B-Wing.jpg';
 import floor22Img from '../assets/Floors/Wing-B/22nd Floor B-wing.jpg';

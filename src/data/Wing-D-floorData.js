@@ -1,10 +1,13 @@
 import floor1Img from "../assets/Floors/Wing-D/1st Floor D-Wing.jpg";
 import floor2Img from '../assets/Floors/Wing-D/2nd Floor D-Wing.jpg';
-import floor3Img from '../assets/Floors/Wing-D/3rd to 7th, 9th to 13th Floor D-Wing.jpg';
+import floor3Img from '../assets/Floors/Wing-D/3rdto7th,9thto13thFloorD-Wing.jpg';
+
 import floor8Img from '../assets/Floors/Wing-D/8th Floor D-Wing.jpg';
-import floor14Img from '../assets/Floors/Wing-D/14th,16th &17th Floor D-Wing.jpg';
+
+import floor14Img from '../assets/Floors/Wing-D/14th,16th&17thFloorD-Wing.jpg';
 import floor15Img from '../assets/Floors/Wing-D/15th Floor D-Wing.jpg';
-import floor18Img from '../assets/Floors/Wing-D/18th to 21st Floor D-Wing.jpg';
+
+import floor18Img from '../assets/Floors/Wing-D/18thto21stFloorD-Wing.jpg';
 import floor22Img from '../assets/Floors/Wing-D/22nd Floor D-wing.jpg';
 import floor23Img from '../assets/Floors/Wing-D/23rd to 26th Floor D-Wing.jpg';
 import floor27Img from '../assets/Floors/Wing-D/27th to 29th Floor D-Wing.jpg';
@@ -14,9 +17,9 @@ import floor27Img from '../assets/Floors/Wing-D/27th to 29th Floor D-Wing.jpg';
 
 export const floorData = {
     1: {
-        id:1,
+        id: 1,
         image: floor1Img,
-         ExploreHomes: "i74rwiwnyd",
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -88,9 +91,9 @@ export const floorData = {
     // Add floor2, floor3 … here later
 
     2: {
-        id:2,
+        id: 2,
         image: floor2Img,
-         ExploreHomes: "i74rwiwnyd",
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -161,9 +164,9 @@ export const floorData = {
 
 
     3: {
-        id:3,
+        id: 3,
         image: floor3Img,
-         ExploreHomes: "i74rwiwnyd",
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -235,9 +238,9 @@ export const floorData = {
 
 
     4: {
-        id:4,
+        id: 4,
         image: floor3Img,
-         ExploreHomes: "i74rwiwnyd",
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -307,9 +310,9 @@ export const floorData = {
     },
 
     5: {
-        id:5,
+        id: 5,
         image: floor3Img,
-         ExploreHomes: "i74rwiwnyd",
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -379,9 +382,9 @@ export const floorData = {
     },
 
     6: {
-        id:6,
+        id: 6,
         image: floor3Img,
-         ExploreHomes: "i74rwiwnyd",
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -452,9 +455,9 @@ export const floorData = {
 
 
     7: {
-        id:7,
+        id: 7,
         image: floor3Img,
-         ExploreHomes: "i74rwiwnyd",
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -527,9 +530,9 @@ export const floorData = {
 
 
     8: {
-        id:8,
+        id: 8,
         image: floor8Img,
-         ExploreHomes: "i74rwiwnyd",
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -599,9 +602,9 @@ export const floorData = {
     },
 
     9: {
-        id:9,
+        id: 9,
         image: floor3Img,
-         ExploreHomes: "i74rwiwnyd",
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -672,9 +675,9 @@ export const floorData = {
 
 
     10: {
-        id:10,
+        id: 10,
         image: floor3Img,
-         ExploreHomes: "i74rwiwnyd",
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -745,9 +748,9 @@ export const floorData = {
 
 
     11: {
-        id:11,
+        id: 11,
         image: floor3Img,
-         ExploreHomes: "i74rwiwnyd",
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -818,9 +821,9 @@ export const floorData = {
 
 
     12: {
-        id:12,
+        id: 12,
         image: floor3Img,
-         ExploreHomes: "i74rwiwnyd",
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -891,9 +894,9 @@ export const floorData = {
 
 
     13: {
-        id:13,
+        id: 13,
         image: floor3Img,
-         ExploreHomes: "i74rwiwnyd",
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -965,9 +968,9 @@ export const floorData = {
 
 
     14: {
-        id:14,
+        id: 14,
         image: floor14Img,
-         ExploreHomes: "i74rwiwnyd",
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -1036,11 +1039,11 @@ export const floorData = {
         ]
     },
 
-   
+
     15: {
-        id:15,
+        id: 15,
         image: floor15Img,
-         ExploreHomes: "i74rwiwnyd",
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -1056,7 +1059,7 @@ export const floorData = {
                 text: "3BHK"
             }
         },
-       units: [
+        units: [
             {
                 id: 1,
                 name: "Unit No-1",
@@ -1111,9 +1114,9 @@ export const floorData = {
 
 
     16: {
-        id:16,
+        id: 16,
         image: floor14Img,
-         ExploreHomes: "i74rwiwnyd",
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -1183,9 +1186,9 @@ export const floorData = {
     },
 
     17: {
-        id:17,
+        id: 17,
         image: floor14Img,
-         ExploreHomes: "i74rwiwnyd",
+        ExploreHomes: "i74rwiwnyd",
         imageSettings: {
             svgSize: "0 0 6000 4000",
             imageWidth: "6000",
@@ -1256,8 +1259,8 @@ export const floorData = {
 
     //18
     18: {
-        id:18,
-         ExploreHomes: "i74rwiwnyd",
+        id: 18,
+        ExploreHomes: "i74rwiwnyd",
         image: floor18Img,
         imageSettings: {
             svgSize: "0 0 6000 4000",
@@ -1329,8 +1332,8 @@ export const floorData = {
 
 
     19: {
-        id:19,
-         ExploreHomes: "i74rwiwnyd",
+        id: 19,
+        ExploreHomes: "i74rwiwnyd",
         image: floor18Img,
         imageSettings: {
             svgSize: "0 0 6000 4000",
@@ -1402,8 +1405,8 @@ export const floorData = {
 
 
     20: {
-        id:20,
-         ExploreHomes: "i74rwiwnyd",
+        id: 20,
+        ExploreHomes: "i74rwiwnyd",
         image: floor18Img,
         imageSettings: {
             svgSize: "0 0 6000 4000",
@@ -1474,8 +1477,8 @@ export const floorData = {
     },
 
     21: {
-        id:21,
-         ExploreHomes: "i74rwiwnyd",
+        id: 21,
+        ExploreHomes: "i74rwiwnyd",
         image: floor18Img,
         imageSettings: {
             svgSize: "0 0 6000 4000",
@@ -1492,7 +1495,7 @@ export const floorData = {
                 text: "3BHK"
             }
         },
-       units: [
+        units: [
             {
                 id: 1,
                 name: "Unit No-1",
@@ -1545,8 +1548,8 @@ export const floorData = {
         ]
     },
     22: {
-        id:22,
-         ExploreHomes: "i74rwiwnyd",
+        id: 22,
+        ExploreHomes: "i74rwiwnyd",
         image: floor22Img,
         imageSettings: {
             svgSize: "0 0 6000 4000",
@@ -1563,7 +1566,7 @@ export const floorData = {
                 text: "3BHK"
             }
         },
-       units: [
+        units: [
             {
                 id: 1,
                 name: "Unit No-1",
