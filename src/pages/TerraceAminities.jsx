@@ -38,12 +38,11 @@ export default function TerraceAminities() {
                 className="absolute top-0 left-0 w-full h-screen object-contain lg:object-cover xl:object-cover"
             /> */}
 
-            <div style={{ width: "100%", height: "100%" }}>
+            <div className="w-full h-full flex items-center justify-center">
                 <wistia-player
-                    media-id="jdpspm1uqo"
-                    wistia-popover="true"
+                    media-id="r8kq46drsw"
                     aspect="1.7777777777777777"
-                    style={{ width: "100%", height: "100%" }}
+                    style={{ width: "100%", maxWidth: "1500px", height: "574px" }}
                 ></wistia-player>
             </div>
             {/* </div> */}
